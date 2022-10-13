@@ -44,7 +44,9 @@ description: Часто задаваемые вопросы
 
 ### Приложение соединилось, но я не вижу статус в своём профиле.
 
-Убедитесь, что статус активности включен в настройках Discord: ![image](https://user-images.githubusercontent.com/2225711/193149442-78c119b4-660e-4d4e-8b7d-8111ec3d4ad1.png)
+Убедитесь, что статус активности включен в настройках Discord:&#x20;
+
+<figure><img src="https://user-images.githubusercontent.com/2225711/193149442-78c119b4-660e-4d4e-8b7d-8111ec3d4ad1.png" alt=""><figcaption></figcaption></figure>
 
 ### Приложение работало, но потом стало бесконечно подключаться.
 
